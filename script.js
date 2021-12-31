@@ -2,7 +2,7 @@ const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
 const minEl = document.getElementById("mins");
 const secEl = document.getElementById("secs");
-const newYears = "1 Jan 2022";
+const newYears = "1 Jan 2023";
 
 function countdown() {
   const currentDate = new Date();
